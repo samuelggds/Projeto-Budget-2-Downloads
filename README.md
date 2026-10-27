@@ -14,6 +14,8 @@ Aplicação web e desktop para gestão de clientes, serviços, estoque e orçame
 
 ## Atualizações
 
-Os instaladores e as assinaturas serão disponibilizados na seção [Releases](https://github.com/samuelggds/Projeto-Budget-2-Downloads/releases). As atualizações do aplicativo devem validar a assinatura dos pacotes.
+A seção [Releases](https://github.com/samuelggds/Projeto-Budget-2-Downloads/releases) contém um espelho verificado dos instaladores assinados da versão 0.4.10. Os bytes dos instaladores e suas assinaturas são os mesmos da distribuição original.
+
+A versão 0.4.10 instalada ainda busca atualizações no endereço anterior. É necessário receber a versão de transição antes de mudar a visibilidade do código. As atualizações do aplicativo devem validar a assinatura dos pacotes.
 
 [Contato pelo LinkedIn](https://www.linkedin.com/in/samuel-gomes-3493a2447/)
